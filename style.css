@@ -185,7 +185,7 @@ font-size: 22px ;
     height: 55px;
    position: sticky;  
    top : 0;
-   transition: 0.5s;
+   transition: 1.5s;
    animation: fade linear forwards;
    animation-timeline: scroll(y);
    animation-range: exit 0%;
