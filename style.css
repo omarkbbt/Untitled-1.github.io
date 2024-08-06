@@ -188,7 +188,7 @@ font-size: 22px ;
    transition: 1s;
    animation: fade linear forwards;
    animation-timeline: scroll(y);
-   animation-range: exit 10%;
+   animation-range: exit 0%;
 }
 
 @keyframes fade{ 
