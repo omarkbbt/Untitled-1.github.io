@@ -185,23 +185,24 @@ font-size: 22px ;
     height: 55px;
    position: sticky;  
    top : 0;
+   transition: 1s;
    animation: fade linear forwards;
    animation-timeline: scroll(y);
-   animation-range: exit 43%;
+   animation-range: exit 42%;
 }
 
 @keyframes fade{ 
- 0%,25%{
-    background-image:linear-gradient(180deg,rgba(199, 102, 255, 0) ,rgba(255, 255, 255, 0));
-}
-
-30%{
-    background-image:linear-gradient(180deg,rgba(199, 102, 255, 0.49) ,rgba(255, 255, 255, 0));
-
-}
- 40%,100%{
-    background-image:linear-gradient(180deg,rgb(199, 102, 255) ,rgba(255, 255, 255, 0));
-}
+    0%,25%{
+        background-image:linear-gradient(180deg,rgba(199, 102, 255, 0) ,rgba(255, 255, 255, 0));
+    }
+    
+    35%{
+        background-image:linear-gradient(180deg,rgba(199, 102, 255, 0.471) ,rgba(255, 255, 255, 0));
+    
+    }
+     50%,100%{
+        background-image:linear-gradient(180deg,rgb(199, 102, 255) ,rgba(255, 255, 255, 0));
+    }
 }
 
 .navb{
