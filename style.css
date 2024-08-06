@@ -187,7 +187,7 @@ font-size: 22px ;
    top : 0;
    animation: fade linear forwards;
    animation-timeline: scroll(y);
-   animation-range: exit -5%;
+   animation-range: exit -1%;
 }
 
 @keyframes fade{ 
@@ -197,11 +197,13 @@ font-size: 22px ;
     
     45%{
         background-image:linear-gradient(180deg,rgba(199, 102, 255, 0.455) ,rgba(255, 255, 255, 0));
+        opacity: 0.7;
 
     }
 
      80%,100%{
         background-image:linear-gradient(180deg,rgb(199, 102, 255) ,rgba(255, 255, 255, 0));
+        opacity: 0;
     }
 }
 
