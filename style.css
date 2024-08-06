@@ -185,7 +185,6 @@ font-size: 22px ;
     height: 55px;
    position: sticky;  
    top : 0;
-   transition: 1.5s;
    animation: fade linear forwards;
    animation-timeline: scroll(y);
    animation-range: exit 0%;
@@ -201,7 +200,7 @@ font-size: 22px ;
 
     }
 
-     70%,100%{
+     60%,100%{
         background-image:linear-gradient(180deg,rgb(199, 102, 255) ,rgba(255, 255, 255, 0));
     }
 }
