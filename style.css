@@ -9,7 +9,7 @@ html{
 }
 
 body{
-    background-color:#b9fff7;
+    background-color:#000000;
 }
 
 .background{
@@ -97,7 +97,7 @@ object-fit: cover;
     margin-bottom: 7px;
     width:fit-content;
     padding: 10px;
-    background-color: #000000;
+    background-color: #c766ff;
     border-top-left-radius: 90px;
     border-top-right-radius: 90px;
     border-bottom-left-radius: 90px;
