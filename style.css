@@ -1,174 +1,177 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .cls-1 {
-  fill: url(#radial-gradient-3);
-}
+    fill: url(#radial-gradient-3);
+  }
 
-.cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
-  mix-blend-mode: screen;
-}
+  .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+    mix-blend-mode: screen;
+  }
 
-.cls-14 {
-  fill: url(#linear-gradient-2);
-}
+  .cls-14 {
+    fill: url(#linear-gradient-2);
+  }
 
-.cls-15 {
-  mix-blend-mode: saturation;
-}
+  .cls-15 {
+    mix-blend-mode: saturation;
+  }
 
-.cls-15, .cls-16, .cls-17 {
-  fill: #ff916b;
-}
+  .cls-15, .cls-16, .cls-17 {
+    fill: #ff916b;
+  }
 
-.cls-18 {
-  fill: #e0fffc;
-}
+  .cls-18 {
+    fill: #e0fffc;
+  }
 
-.cls-19 {
-  fill: #9886af;
-}
+  .cls-19 {
+    fill: #9886af;
+  }
 
-.cls-2 {
-  fill: url(#radial-gradient-7);
-}
+  .cls-2 {
+    fill: url(#radial-gradient-7);
+  }
 
-.cls-3 {
-  fill: url(#radial-gradient-4);
-  opacity: .2;
-}
+  .cls-3 {
+    fill: url(#radial-gradient-4);
+    opacity: .2;
+  }
 
-.cls-20 {
-  stroke: #9886af;
-  stroke-width: 8.504px;
-}
+  .cls-20 {
+    stroke: #9886af;
+    stroke-width: 8.504px;
+  }
 
-.cls-20, .cls-21, .cls-16, .cls-5, .cls-22, .cls-23, .cls-24, .cls-25 {
-  stroke-miterlimit: 10;
-}
+  .cls-20, .cls-21, .cls-16, .cls-5, .cls-22, .cls-23, .cls-24, .cls-25 {
+    stroke-miterlimit: 10;
+  }
 
-.cls-20, .cls-21, .cls-5, .cls-22, .cls-23, .cls-24 {
-  fill: none;
-}
+  .cls-20, .cls-21, .cls-5, .cls-22, .cls-23, .cls-24 {
+    fill: none;
+  }
 
-.cls-20, .cls-26 {
-  mix-blend-mode: color-burn;
-}
+  .cls-20, .cls-26 {
+    mix-blend-mode: color-burn;
+  }
 
-.cls-27 {
-  isolation: isolate;
-}
+  .cls-27 {
+    isolation: isolate;
+  }
 
-.cls-21 {
-  stroke-width: 10.698px;
-}
+  .cls-21 {
+    stroke-width: 10.698px;
+  }
 
-.cls-21, .cls-23, .cls-24 {
-  stroke: #ff916b;
-}
+  .cls-21, .cls-23, .cls-24 {
+    stroke: #ff916b;
+  }
 
-.cls-16 {
-  stroke-width: 14.173px;
-}
+  .cls-16 {
+    stroke-width: 14.173px;
+  }
 
-.cls-16, .cls-25 {
-  stroke: #fffc9c;
-}
+  .cls-16, .cls-25 {
+    stroke: #fffc9c;
+  }
 
-.cls-4 {
-  fill: url(#radial-gradient-6);
-}
+  .cls-4 {
+    fill: url(#radial-gradient-6);
+  }
 
-.cls-4, .cls-9 {
-  opacity: .5;
-}
+  .cls-4, .cls-9 {
+    opacity: .5;
+  }
 
-.cls-28 {
-  fill: #0d0719;
-}
+  .cls-28 {
+    fill: #0d0719;
+  }
 
-.cls-29 {
-  fill: url(#linear-gradient);
-  mix-blend-mode: lighten;
-  opacity: .74;
-}
+  .cls-29 {
+    fill: url(#linear-gradient);
+    mix-blend-mode: lighten;
+    opacity: .74;
+  }
 
-.cls-5 {
-  opacity: .03;
-  stroke: #fff;
-  stroke-width: 2px;
-}
+  .cls-5 {
+    opacity: .03;
+    stroke: #fff;
+    stroke-width: 2px;
+  }
 
-.cls-30 {
-  mix-blend-mode: color;
-  opacity: .44;
-}
+  .cls-30 {
+    mix-blend-mode: color;
+    opacity: .44;
+  }
 
-.cls-30, .cls-31 {
-  fill: #fffc9c;
-}
+  .cls-30, .cls-31 {
+    fill: #fffc9c;
+  }
 
-.cls-6 {
-  fill: url(#radial-gradient-5);
-  opacity: .15;
-}
+  .cls-6 {
+    fill: url(#radial-gradient-5);
+    opacity: .15;
+  }
 
-.cls-22 {
-  stroke: #e0fffc;
-  stroke-width: 14.529px;
-}
+  .cls-22 {
+    stroke: #e0fffc;
+    stroke-width: 14.529px;
+  }
 
-.cls-23 {
-  stroke-width: 9.2px;
-}
+  .cls-23 {
+    stroke-width: 9.2px;
+  }
 
-.cls-7 {
-  fill: url(#radial-gradient-10);
-}
+  .cls-7 {
+    fill: url(#radial-gradient-10);
+  }
 
-.cls-8 {
-  fill: url(#radial-gradient-12);
-}
+  .cls-8 {
+    fill: url(#radial-gradient-12);
+  }
 
-.cls-32 {
-  clip-path: url(#clippath);
-}
+  .cls-32 {
+    clip-path: url(#clippath);
+  }
 
-.cls-24 {
-  stroke-width: 5.669px;
-}
+  .cls-24 {
+    stroke-width: 5.669px;
+  }
 
-.cls-25 {
-  stroke-width: 16.645px;
-}
+  .cls-25 {
+    stroke-width: 16.645px;
+  }
 
-.cls-25, .cls-33 {
-  fill: #844b3c;
-}
+  .cls-25, .cls-33 {
+    fill: #844b3c;
+  }
 
-.cls-9 {
-  fill: url(#radial-gradient-8);
-}
+  .cls-9 {
+    fill: url(#radial-gradient-8);
+  }
 
-.cls-10 {
-  fill: url(#radial-gradient-9);
-}
+  .cls-10 {
+    fill: url(#radial-gradient-9);
+  }
 
-.cls-11 {
-  fill: url(#radial-gradient-2);
-}
+  .cls-11 {
+    fill: url(#radial-gradient-2);
+  }
 
-.cls-34 {
-  mix-blend-mode: overlay;
-}
+  .cls-34 {
+    mix-blend-mode: overlay;
+  }
 
-.cls-12 {
-  fill: url(#radial-gradient);
-  opacity: .25;
-}
+  .cls-12 {
+    fill: url(#radial-gradient);
+    opacity: .25;
+  }
+  .cls-35 {
+    mix-blend-mode: screen;
+    opacity: .86;
+  }
 
-.cls-35 {
-  mix-blend-mode: screen;
-  opacity: .86;
-}
-
-.cls-13 {
-  fill: url(#radial-gradient-11);
-}
+  .cls-13 {
+    fill: url(#radial-gradient-11);
+  }
