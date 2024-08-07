@@ -7,9 +7,16 @@ body{
     stroke-width: 8.504px;
     stroke-miterlimit: 10;
     fill: none;
-    mix-blend-mode: color-burn;
   }
 
   .cls-32 {
     clip-path: url(#clippath);
+  }
+  
+  .cls-31 {
+    fill: #fffc9c;
+  }
+  
+ .cls-20, .cls-26 {
+    mix-blend-mode: color-burn;
   }
