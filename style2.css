@@ -1,0 +1,15 @@
+body{
+    background-color: #e0fffc;
+}
+
+.cls-20 {
+    stroke: #9886af;
+    stroke-width: 8.504px;
+    stroke-miterlimit: 10;
+    fill: none;
+    mix-blend-mode: color-burn;
+  }
+
+  .cls-32 {
+    clip-path: url(#clippath);
+  }
