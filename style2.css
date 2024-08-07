@@ -8,3 +8,7 @@ body{
     object-fit: cover;
     margin: auto;
 }
+
+img{
+    scale: 50px 50px;
+}
