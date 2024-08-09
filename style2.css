@@ -98,11 +98,6 @@ img{
      height: fit-content;
 }
 
-.ins{
-    position: absolute;
-    left: -1px;
-}
-
 .fa-brands{
     scale: 1.4;
 }
