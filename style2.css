@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: broadw;
+    src: url(../font/BROADW.TTF);
+}
 
 body{
     background-color: #e0fffc;
@@ -57,7 +60,7 @@ img{
 
 
 .t-1 ,.t-2{
-    font-family: broadway , broadway;
+    font-family: broadw;
     color:#9886af; 
     margin : auto;
 }
