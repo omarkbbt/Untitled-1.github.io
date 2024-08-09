@@ -8,6 +8,10 @@
     font-family: broadw;
     src: url(/fonts/BROADW.TTF);
 }
+@font-face{
+    font-family: for;
+    src: url(/fonts/FORTE.TTF);
+}
 
 .con{
     width: 100%;
@@ -47,7 +51,7 @@ form input,form textarea{
     background: white;
     border-radius: 20px;
     font-size: 16px;
-    font-family: forte;
+    font-family: for;
 }
 form button{
     padding: 15px;
