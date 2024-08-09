@@ -1,4 +1,4 @@
-@import url(BROADW.TTF);
+
 
 body{
     background-color: #e0fffc;
@@ -57,7 +57,7 @@ img{
 
 
 .t-1 ,.t-2{
-    font-family: URL(BROADW.TTF);
+    font-family: broadway , broadway;
     color:#9886af; 
     margin : auto;
 }
