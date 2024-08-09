@@ -100,6 +100,10 @@ img{
      height: fit-content;
 }
 
+.ins .i-1{
+    left: -1px;
+}
+
 .fa-brands{
     scale: 1.4;
 }
