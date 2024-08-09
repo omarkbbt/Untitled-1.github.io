@@ -6,11 +6,11 @@
 
 @font-face {
     font-family: broadw;
-    src: url(/fonts/BROADW.TTF);
+    src: url(fonts/BROADW.TTF);
 }
 @font-face{
     font-family: for;
-    src: url(/fonts/FORTE.TTF);
+    src: url(fonts/FORTE.TTF);
 }
 
 .con{
