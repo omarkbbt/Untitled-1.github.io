@@ -3,6 +3,11 @@
     src: url(fonts/BROADW.TTF);
 }
 
+@font-face{
+    font-family: for;
+    src: url(fonts/FORTE.TTF);
+}
+
 body{
     background-color: #e0fffc;
 }
@@ -60,15 +65,17 @@ img{
 
 
 .t-1 ,.t-2{
-    font-family: broadw;
     color:#9886af; 
     margin : auto;
 }
 
-
+.t2{
+    font-family: for;
+}
 
 .t-1{
-    font-size: 23px;  
+    font-size: 23px; 
+     font-family: broadw;
 }
 
 .t-2{
