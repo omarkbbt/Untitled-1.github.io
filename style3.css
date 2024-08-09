@@ -44,7 +44,7 @@ form button{
     background: #fffc9c  ;
     color: #9886af;
     font-size: 18px;
-    font-family:  Broadway, Broadway;
+    font-family:  URL(BROADW.TTF);
     border: 0;
     outline: none;
     cursor: pointer;
