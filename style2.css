@@ -62,7 +62,7 @@ img{
 
 
 .t-1 ,.t-2{
-    font-family: fantasy;
+    font-family: URL(BROADW.TTF);
     color:#9886af; 
     margin : auto;
 }
@@ -94,11 +94,14 @@ img{
 
 .i-1{
     bottom: -1px;
-    left: -1px;
      width: fit-content;
      height: fit-content;
 }
 
+.ins{
+    position: absolute;
+    left: -1px;
+}
 
 .fa-brands{
     scale: 1.4;
